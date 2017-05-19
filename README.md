@@ -8,20 +8,25 @@
 
 `npm unstall`
 
-Compile -> `npm run build`
-Run -> `npm start`
+Compile 
+
+`npm run build`
+
+Run
+
+`npm start`
 
 ### Links
 
-https://babeljs.io/
-https://webpack.github.io/
+- https://babeljs.io/
+- https://webpack.github.io/
 
 ## Ejercicios
 
 1-  Crear versiones React / JSX de las paginas estaticas 
 
-ejercicios/features-gh-pages.zip
-ejercicios/shop-item-gh-pages.zip
+- ejercicios/features-gh-pages.zip
+- ejercicios/shop-item-gh-pages.zip
 
 (Templates de bootstrap tomados de https://startbootstrap.com)
 
@@ -29,6 +34,6 @@ ejercicios/shop-item-gh-pages.zip
 
 ### Links
 
-https://github.com/facebookincubator/create-react-app
-https://react-bootstrap.github.io/
+- https://github.com/facebookincubator/create-react-app
+- https://react-bootstrap.github.io/
 
