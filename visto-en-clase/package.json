@@ -1,0 +1,24 @@
+{
+	"name": "clase5",
+	"version": "0.0.1",
+	"description": "## Intro Webpack Babel React",
+	"main": "index.js",
+	"dependencies": {
+		"create-react-app": "^1.3.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"create": "create-react-app app1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/utn-fullstack/clase5.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/utn-fullstack/clase5/issues"
+	},
+	"homepage": "https://github.com/utn-fullstack/clase5#readme"
+}
